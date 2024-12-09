@@ -1,0 +1,12 @@
+github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
+github.com/kordar/godb v0.0.7 h1:y6N9BHaTKXLJUw0lLSor2wIbRSE8c/GWz2jLAnMv1Rs=
+github.com/kordar/godb v0.0.7/go.mod h1:9is7dBbUuRnXJ0vK80eqGPtjhJ+OwiHbdaGnCUaVQkg=
+github.com/kordar/gologger v0.0.8 h1:bpbxxOagkXp7TKREji61FrwVljf5X56yvedQsWNVe28=
+github.com/kordar/gologger v0.0.8/go.mod h1:hJF0BnPeo/QSJalJBF0eOG362WHez/Uc5SurSd5cdEo=
+github.com/kordar/video-collection v0.2.1 h1:gmOgrXn/JEHzpmr4qR6T7RnL5zQLGb9RUZlRQCukGug=
+github.com/kordar/video-collection v0.2.1/go.mod h1:V+6CqfFFPshYVxe8BEqTkH6i4xgb65kc8/HIfRoizIg=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.5.1 h1:nOGnQDM7FYENwehXlg/kFVnos3rEvtKTjRvOWSzb6H4=
+github.com/xfrr/goffmpeg v1.0.0 h1:trxuLNb9ys50YlV7gTVNAII9J0r00WWqCGTE46Gc3XU=
+github.com/xfrr/goffmpeg v1.0.0/go.mod h1:zjLRiirHnip+/hVAT3lVE3QZ6SGynr0hcctUMNNISdQ=
+gopkg.in/yaml.v2 v2.2.2 h1:ZCJp+EgiOT7lHqUV2J862kp8Qj64Jo6az82+3Td9dZw=
